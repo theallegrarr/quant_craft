@@ -26,17 +26,17 @@ Before using strategy features, install:
 
 ## Download installers (v1.0.0)
 
-After installing, launch QuantCraft and open the strategy IDE/workspace area.
+Click a link below to download the installer (direct file URL). After installing, launch QuantCraft and open the strategy IDE/workspace area.
 
 ### Windows x64
 
-- [QuantCraft_1.0.0_x64-setup.exe](v1/windows/x64/QuantCraft_1.0.0_x64-setup.exe?download=) - NSIS setup (recommended)
-- [QuantCraft_1.0.0_x64_en-US.msi](v1/windows/x64/QuantCraft_1.0.0_x64_en-US.msi?download=) - MSI (enterprise / silent deploy)
+- [QuantCraft_1.0.0_x64-setup.exe](https://media.githubusercontent.com/media/theallegrarr/quant_craft/main/v1/windows/x64/QuantCraft_1.0.0_x64-setup.exe) - NSIS setup (recommended)
+- [QuantCraft_1.0.0_x64_en-US.msi](https://media.githubusercontent.com/media/theallegrarr/quant_craft/main/v1/windows/x64/QuantCraft_1.0.0_x64_en-US.msi) - MSI (enterprise / silent deploy)
 
 ### Windows x86 (32-bit)
 
-- [QuantCraft_1.0.0_x86-setup.exe](v1/windows/x86/QuantCraft_1.0.0_x86-setup.exe?download=) - NSIS setup
-- [QuantCraft_1.0.0_x86_en-US.msi](v1/windows/x86/QuantCraft_1.0.0_x86_en-US.msi?download=) - MSI (enterprise / silent deploy)
+- [QuantCraft_1.0.0_x86-setup.exe](https://media.githubusercontent.com/media/theallegrarr/quant_craft/main/v1/windows/x86/QuantCraft_1.0.0_x86-setup.exe) - NSIS setup
+- [QuantCraft_1.0.0_x86_en-US.msi](https://media.githubusercontent.com/media/theallegrarr/quant_craft/main/v1/windows/x86/QuantCraft_1.0.0_x86_en-US.msi) - MSI (enterprise / silent deploy)
 
 ## Documentation
 
